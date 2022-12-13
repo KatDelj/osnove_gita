@@ -3,8 +3,3 @@
 logs_*
 library/*zip
 svaštara/
-*.users
-*.db
-*.properties
-*.keys
-*.pem
