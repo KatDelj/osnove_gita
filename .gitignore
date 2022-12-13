@@ -9,5 +9,5 @@ library/*zip
 *.properties
 *.keys
 *.pem
-
+bin/
 
